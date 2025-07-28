@@ -5,11 +5,11 @@
 
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | AI & Cloud Enthusiast</h3> 
 
-- 🔭 I’m currently working on **AI-powered career tools and chatbots**
+- 🔭 I’m currently working on **AI-powered career tools and chatbots**.
 
-- 🌱 I’m currently learning **Advanced System Design, Docker, GitHub Actions & CI/CD pipelines for DevOps workflows, Optimizing performance in React & Next.js applications**
+- 🌱 I’m currently learning **Advanced System Design, Docker, GitHub Actions & CI/CD pipelines for DevOps workflows, Optimizing performance in React & Next.js applications**.
 
-- 🤔 Exploring new technologies and building software solutions.
+- 🤔 Exploring new technologies and **building software solutions**.
 
 - 🎓 Studying Software Engineering and deepening my understanding of software architecture through personal fullstack projects.
 
