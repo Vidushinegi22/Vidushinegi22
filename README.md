@@ -1,18 +1,18 @@
 <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
 
 <div style="display: inline-block; width: 58%; vertical-align: top;">
-  <p>Hi! I'm Vidushi Negi,an aspiring software engineer passionate about building intuitive and high-performance interfaces. I enjoy learning new technologies, solving real problems through code, and working on fullstack projects to expand my knowledge.</p>
+  <p>Hi! I'm Vidushi Negi, an aspiring software engineer passionate about building intuitive and high-performance interfaces. I enjoy learning new technologies, solving real problems through code, and working on fullstack projects to expand my knowledge.</p>
 
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | AI & Cloud Enthusiast</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidushinegi22" alt="vidushinegi22" /></a> </p>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | AI & Cloud Enthusiast</h3> 
 
 - 🔭 I’m currently working on **AI-powered career tools and chatbots**
 
 - 🌱 I’m currently learning **Advanced System Design, Docker, GitHub Actions & CI/CD pipelines for DevOps workflows, Optimizing performance in React & Next.js applications**
-<li>🤔 Exploring new technologies and building software solutions.</li>
-    <li>🎓 Studying Software Engineering and deepening my understanding of software architecture through personal fullstack projects.</li>
-- 📫 How to reach me **vidushinegi24@gmail.com**
+- 
+-🤔 Exploring new technologies and building software solutions.
+
+-🎓 Studying Software Engineering and deepening my understanding of software architecture through personal fullstack projects.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
