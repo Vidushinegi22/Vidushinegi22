@@ -1,5 +1,5 @@
 <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
-
+[Profile views](https://visitor-badge.laobi.icu/badge?page_id=vidushinegi22.vidushinegi22)
 <div style="display: inline-block; width: 58%; vertical-align: top;">
   <p>Hi! I'm Vidushi Negi, an aspiring software engineer passionate about building intuitive and high-performance interfaces. I enjoy learning new technologies, solving real problems through code, and working on fullstack projects to expand my knowledge.</p>
 
@@ -7,9 +7,9 @@
 
 - 🎓 Studying Software Engineering and deepening my understanding of software architecture through personal fullstack projects.
  
-- 🔭 I’m currently working on **AI-powered career tools and chatbots**.
+- 🔭 I’m currently working on **Full Stack Web Development.**.
   
-- 🌱 I’m currently learning **Advanced System Design,WEB Development, GitHub Actions & CI/CD pipelines, Optimizing performance in React & Next.js applications**.
+- 🌱 I’m currently learning **WEB Development by Optimizing performance in Javascript and React.js applications**.
 
 - 🤔 Exploring new technologies and **building software solutions**.
 
