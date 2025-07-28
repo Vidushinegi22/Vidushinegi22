@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Advanced System Design, Docker, GitHub Actions & CI/CD pipelines for DevOps workflows, Optimizing performance in React & Next.js applications**
 
--🤔 Exploring new technologies and building software solutions.
+- 🤔 Exploring new technologies and building software solutions.
 
--🎓 Studying Software Engineering and deepening my understanding of software architecture through personal fullstack projects.
+- 🎓 Studying Software Engineering and deepening my understanding of software architecture through personal fullstack projects.
 
 
 <h3 align="left">Connect with me:</h3>
