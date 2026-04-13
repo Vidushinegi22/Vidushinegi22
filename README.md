@@ -1,7 +1,7 @@
 <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
 
 <div style="display: inline-block; width: 58%; vertical-align: top;">
-  <p>Hi! I'm Vidushi Negi, an aspiring software engineer passionate about building intuitive and high-performance interfaces. I enjoy learning new technologies, solving real problems through code, and working on fullstack projects to expand my knowledge.</p>
+  <p>Hi! I'm Vidushi Negi, an aspiring software engineer passionate about building intuitive and high-performance interfaces. I enjoy learning new technologies, solving real problems through code and working on fullstack projects to expand my knowledge.</p>
 
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | AI & Cloud Enthusiast</h3> 
 
