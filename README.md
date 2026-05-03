@@ -63,6 +63,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidushinegi22&show_icons=true&locale=en&layout=compact" alt="vidushinegi22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidushinegi22&show_icons=true&locale=en" alt="vidushinegi22" /></p>
